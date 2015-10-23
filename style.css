@@ -5,14 +5,14 @@
 .grid {
   width: 500px;
   height: 500px;
-  background: black;
+  background: lightblue;
 }
 
 .square {
   float: left;
   width: 100px;
   height: 100px;
-  background: #E7E5DB;
+  background: gray;
   margin: 10px;
 }
 
