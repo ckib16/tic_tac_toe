@@ -1,7 +1,7 @@
 /* global $ */
 
 $(document).ready(function () {
-  $('.square').on('click', function ( evt ) {
-    $(this).css('background', 'red')
+  $('.square').on('click', function (evt) {
+    $(this).toggleClass('red')
   })
 })

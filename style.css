@@ -16,6 +16,10 @@
   margin: 10px;
 }
 
+.red {
+  background: red;
+}
+
 .row-one {
   display: inline-block;
 }
