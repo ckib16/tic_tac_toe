@@ -1,0 +1,29 @@
+.header {
+  text-align: center;
+}
+
+.grid {
+  width: 500px;
+  height: 500px;
+  background: black;
+}
+
+.square {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #E7E5DB;
+  margin: 10px;
+}
+
+.row-one {
+  display: inline-block;
+}
+
+.row-two {
+  display: inline-block;
+}
+
+.row-three {
+  display: inline-block;
+}
