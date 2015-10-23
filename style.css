@@ -1,11 +1,26 @@
+.clearfix{
+  overflow: auto;
+}
+
 .header {
   text-align: center;
 }
 
+.mainField {
+  margin: 0 auto;
+  width: 60%;
+  position: relative;
+}
+
 .grid {
-  width: 500px;
-  height: 500px;
+  width: 70%;
+  height: 450px;
   background: lightblue;
+  margin: 0 auto;
+  /*display: inline-block;*/
+  z-index: auto;
+  display: inline-block;
+
 }
 
 .square {
@@ -18,6 +33,10 @@
 
 .red {
   background: red;
+}
+
+.blue {
+  background: blue;
 }
 
 .row-one {
